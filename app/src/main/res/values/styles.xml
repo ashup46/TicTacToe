@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="MyGameButton" parent="Widget.MaterialComponents.Badge">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/orange</item>
+        <item name="cornerRadius">100dp</item>
+    </style>
+
+    <style name="MyTextView" parent="Widget.AppCompat.TextView.SpinnerItem">
+        <item name="textAppearanceBody1"/>
+    </style>
+    <color name = "orange">#FFA500</color>
+</resources>
